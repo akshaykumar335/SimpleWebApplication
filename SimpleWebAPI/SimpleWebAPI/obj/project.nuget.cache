@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nDj0OHXdLoWMasMkfVOC7jJjKUiPJK6Bywi1nNK2zcnE5K+gPZkDdOA85Ctkrils2TSsgeP6xvage88/an/+0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AkshayMandha(Quadran\\source\\repos\\SimpleWebAPI\\SimpleWebAPI\\SimpleWebAPI.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AkshayMandha(Quadran\\.nuget\\packages\\fsharp.core\\8.0.101\\fsharp.core.8.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}
